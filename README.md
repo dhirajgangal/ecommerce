@@ -15,6 +15,7 @@
 3) date.timezone = Asia/Kolkata <- Change this to your own timezone.
 
 === Supported Database Servers ===
+
 MySQL: Version 8.0.32 or higher is recommended for optimal performance and compatibility.
 
 MariaDB: Version 10.3 or higher is recommended for optimal performance and compatibility.
